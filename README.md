@@ -144,6 +144,32 @@ Being able to turn numbers into a story that everyday people can understand *tha
 
 In the end, this project became a mirror; it showed me how far I’ve come, how much I still have to learn, and how powerful one person’s curiosity can be when paired with the right tools and mindset.
 
+## 💬 Final Note & Shoutouts
+
+This project started with just one question: *Can I take what I’m learning and use it to make sense of the chaos around me?*
+
+The answer? **Yes, with patience, grit, and a hunger to grow.**
+
+I’m still early in my journey. I’m not the most technical, I don’t have all the answers, and I broke a few things along the way. But I’m learning. I’m building. And I’m proud of how far I’ve come.
+
+To every beginner out there:  
+You don’t need a perfect idea or fancy tech. Just start. Use what you have. Mess up. Learn. Keep going. The growth lives in the process.
+
+### 🙏 Shoutout to:
+- **AltSchool Africa**  for giving me a strong foundation to even attempt a project like this.
+- **YouTube instructors and Tableau Public community**  for making self-learning feel less lonely.
+- **ChatGPT**  for being my constant debugging buddy and never judging my errors.
+- **My fellow learners**  we’re all figuring it out. One project at a time.
+
+---
+
+If you’re a recruiter, mentor, or data professional and this project caught your attention, I’m open to feedback, collaborations, or internship opportunities where I can keep learning and add value.
+
+Thanks for reading,  
+**– Gana Joshua Danlami.**
+
+
+
 
 
 
