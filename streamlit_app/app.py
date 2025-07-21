@@ -8,7 +8,7 @@ st.set_page_config(page_title="🇳🇬 Nigeria's Food Inflation Crisis", layout
 # --- Load Data ---
 @st.cache_data
 def load_data():
-   df = pd.read_csv("combined_food_inflation_csv.csv", parse_dates=["Date"])
+    df = pd.read_csv("combined_food_inflation_csv.csv", parse_dates=["Date"])
     return df
 
 df = load_data()
